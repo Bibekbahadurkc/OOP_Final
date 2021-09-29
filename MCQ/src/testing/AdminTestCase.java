@@ -7,7 +7,7 @@ package testing;
 /*
  * class AdminTestCase {
  * 
- * @Test void test() { String id = "samir"; String pw = "sam123"; LoginMain l =
+ * @Test void test() { String id = "bibek"; String pw = "bib123"; LoginMain l =
  * new LoginMain(); boolean result = l.checklogin(id,pw);
  * assertEquals(true,result); }
  * 
